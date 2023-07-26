@@ -1,1 +1,1 @@
-This ismy alx 0x01 directory
+i want to check the function
